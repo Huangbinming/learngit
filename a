@@ -1,0 +1,84 @@
+[33mcommit fde4df4bb917763fcd1bcf404f36d1df14a563ec[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 14eaeb9 f3a0db1
+Author: e <952021067@qq.com>
+Date:   Sun Jul 22 13:31:38 2018 +0800
+
+    coflict fixed
+
+[33mcommit 14eaeb9342afd330085b973650c26e064f3dc229[m
+Author: e <952021067@qq.com>
+Date:   Sun Jul 22 13:28:03 2018 +0800
+
+    & simple
+
+[33mcommit f3a0db19a95208071e178bb39f7817358d1fe48e[m[33m ([m[1;32mfeaturel[m[33m)[m
+Author: e <952021067@qq.com>
+Date:   Sun Jul 22 13:26:54 2018 +0800
+
+    ADD simple
+
+[33mcommit c44ccbaa2d17d1926d876c1e238122fc6626089c[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: e <952021067@qq.com>
+Date:   Sun Jul 22 13:17:48 2018 +0800
+
+    branch test
+
+[33mcommit 7cf3436fe439636e0b4a192a12c3faa25ecaa0ca[m
+Author: e <952021067@qq.com>
+Date:   Sun Jul 22 12:52:01 2018 +0800
+
+    wrote gengxin
+
+[33mcommit 9388650aa2362276d59a040108d6bf4a639606f3[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 17:26:37 2018 +0800
+
+    append xiugai
+
+[33mcommit 0d0eb8b90f97f25c70c6763851bc45ea3fbdb7f1[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 17:22:07 2018 +0800
+
+    git tracks chang
+
+[33mcommit ab135dd7ad2d794d1a4093b179a9572513081d3c[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 17:16:58 2018 +0800
+
+    git tracks changes
+
+[33mcommit 74158b76d81e951ebefe460161de4cb37fc9f19f[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 16:55:00 2018 +0800
+
+    undersyand how stage work
+
+[33mcommit 95bac47885071fca43d1fe59c63a629d5b6c16cf[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 16:50:05 2018 +0800
+
+    understand how stage works
+
+[33mcommit eb43288329bd6afe2746da4a0a13b1e29c96de8e[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 16:46:48 2018 +0800
+
+    append GPLS
+
+[33mcommit a862e9cbe59f04c25fc873aca08568db7dc2fa51[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 16:02:28 2018 +0800
+
+    append GPL
+
+[33mcommit b3e8e7a6ce8b0d96be37a32e9bc689aaf607dc6a[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 15:09:03 2018 +0800
+
+    add distributed
+
+[33mcommit 529bf4d1109c68b0b362ab367df7e65eef1829ad[m
+Author: e <952021067@qq.com>
+Date:   Sat Jul 21 14:13:20 2018 +0800
+
+    wrote a readme file
